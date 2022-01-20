@@ -9,7 +9,7 @@
 - ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
 
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&hide=prs,issues" />
 </a>
 <a href="https://github.com/Ahmedsaed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&langs_count=10&theme=dark" />
