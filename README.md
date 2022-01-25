@@ -25,10 +25,8 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
 </a>
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&hide=html,css,matlab" />
+  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&exclude_repo=Deeplearning.AI,Machine-Learning---Stanford-University,CS50AI,CS50x" />
 </a>
-<br/>
-<sub><sub>Excluding: Html, CSS, MATLAB</sub></sub>
 </div>
 
 ### ☄️ Github Streaks:
