@@ -10,7 +10,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
--  I’m currently working with Python, C++, Tensorflow, Matlab
+- 🛠 I’m currently working with Python, C++, Tensorflow, Matlab
 - 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
