@@ -10,13 +10,13 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
--  I’m currently working with Python, C++, <br/> Tensorflow, Matlab
+-  I’m currently working with Python, C++, Tensorflow, Matlab
 - 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
 - 📫 How to reach me: ahmed@ahmedsaed.me
 - ❤️ Feel in love with Arch Linux
-- ⚡ Fun fact: pizza 🍕 is the volume of a cylinder <br/> whose radius z and depth a
+- ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
 
 ### ⚡ GitHub Stats:
 
