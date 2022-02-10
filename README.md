@@ -31,9 +31,9 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 ### ☄️ Github Streaks:
 <div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahmedsaed&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Ahmedsaed)
-  
+	<a href="https://github.com/Ahmedsaed">
+	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ahmedsaed&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+	</a>
 </div>
 
 
