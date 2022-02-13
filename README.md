@@ -39,7 +39,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 11 & Linux Mint</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 320 (i5)</li>
