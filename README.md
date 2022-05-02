@@ -36,6 +36,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 	</a>
 </div>
 
+<br/>
 
 <details>	
   <br />
