@@ -14,7 +14,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 - 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
-- 📫 How to reach me: ahmed@ahmedsaed.me
+- 📫 How to reach me: mail@ahmedsaed.me
 - ❤️ Feel in love with Arch Linux
 - ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
 
