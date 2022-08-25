@@ -22,10 +22,10 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 <div align="center">
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
+  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
 </a>
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
+  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
 </a>
 </div>
 
