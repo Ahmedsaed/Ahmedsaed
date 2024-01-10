@@ -22,10 +22,10 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) ðŸ
 
 <div align="center">
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img align="center" height="130em" src="github_stats_image.svg" />
 </a>
 <a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game,Energy-Management-Dashboard,Fix_My_Code_Challenge&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff,purebasic" />
+  <img align="center" height="130em" src="github_languages_image.svg" />
 </a>
 </div>
 
