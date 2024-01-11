@@ -11,7 +11,7 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) �
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
 - 🛠 I’m currently working with C for low-level programming, and Pthon and Tensorflow for AI
-- 🔭 I’m currently working on my personal portfolio 
+- 🔭 I’m currently working on English to Arabic translation using transformers  
 - 🌱 I’m currently learning Low-Level Software Development
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
 - 📫 How to reach me: mail@ahmedsaed.me
@@ -42,11 +42,11 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) �
   <br />
   <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Windows 11 & Linux Mint</li>
+  	  <li><b>OS:</b> Fedora Linux </li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 320 (i5)</li>
 	    <li><b>PC: </b> Intel Core I7, 16GB Ram, AMD RX 470 </li>
   	  <li><b>Browser: </b> Chrome </li>
-	    <li><b>Terminal: </b> Powershell, ZSH </li>
+	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode </li>
 	  </ul>	
 </details>
