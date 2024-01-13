@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add github_stats_image.svg github_languages_image.svg
+        git add github_stats_image.svg github_languages_image.svg github_streak_image.svg
         git commit -m "Update GitHub images [skip ci]"
         git push
       env:
