@@ -32,7 +32,7 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) �
 ### ☄️ Github Streaks:
 <div align="center">
 	<a href="https://github.com/Ahmedsaed">
-	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ahmedsaed&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+	  <img align="center" height="150em" src="github_streak_image.svg" />
 	</a>
 </div>
 
