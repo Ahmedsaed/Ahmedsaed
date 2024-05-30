@@ -10,12 +10,12 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) �
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
-- 🛠 I’m currently working with C for low-level programming, and Pthon and Tensorflow for AI
+- 🛠 I’m currently working with C for low-level programming, and Python and Tensorflow for AI
 - 🔭 I’m currently working on English to Arabic translation using transformers  
 - 🌱 I’m currently learning Low-Level Software Development
 - 💬 Ask me about anything [here](https://github.com/Ahmedsaed/Ahmedsaed/discussions/3)
 - 📫 How to reach me: mail@ahmedsaed.me
-- ❤️ Feel in love with Fedora Linux
+- ❤️ Fell in love with Fedora Linux
 - ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
 
 ### ⚡ GitHub Stats:
