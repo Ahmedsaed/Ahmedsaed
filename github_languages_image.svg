@@ -90,7 +90,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="206.07"
+          width="206.13"
           height="8"
           fill="#f1e05a"
         />
@@ -98,9 +98,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="206.07"
+          x="206.13"
           y="0"
-          width="47.28"
+          width="47.25"
           height="8"
           fill="#f7523f"
         />
@@ -108,9 +108,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="253.35"
+          x="253.38"
           y="0"
-          width="16.45"
+          width="16.44"
           height="8"
           fill="#3572A5"
         />
@@ -118,9 +118,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.8"
+          x="269.82"
           y="0"
-          width="11.81"
+          width="11.8"
           height="8"
           fill="#555555"
         />
@@ -128,9 +128,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="281.61"
+          x="281.62"
           y="0"
-          width="10.15"
+          width="10.14"
           height="8"
           fill="#4F5D95"
         />
@@ -140,7 +140,7 @@
           data-testid="lang-progress"
           x="291.76"
           y="0"
-          width="18.25"
+          width="18.240000000000002"
           height="8"
           fill="#f34b7d"
         />
@@ -151,14 +151,14 @@
     <g>
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 68.69%
+        JavaScript 68.71%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#f7523f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Blade 15.76%
+        Blade 15.75%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -172,7 +172,7 @@
     <g>
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 3.94%
+        C 3.93%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
