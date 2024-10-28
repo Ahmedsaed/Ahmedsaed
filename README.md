@@ -44,7 +44,7 @@ I'm a **junior** student at Misr University For Science and Technology (MUST) ðŸ
   	  <li><b>OS:</b> Fedora Linux </li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 320 (i5)</li>
 	    <li><b>PC: </b> Intel Core I7, 16GB Ram, AMD RX 470 </li>
-  	  <li><b>Browser: </b> Chrome </li>
+  	  <li><b>Browser: </b> Zen </li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode </li>
 	  </ul>	
