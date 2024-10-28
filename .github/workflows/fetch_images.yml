@@ -22,7 +22,7 @@ jobs:
 
     - name: Fetch GitHub languages image
       run: |
-        curl -o github_languages_image.svg "https://github-readme-stats-khaki-six.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=fxtips-broker,Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game,Energy-Management-Dashboard,Fix_My_Code_Challenge&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff,purebasic"
+        curl -o github_languages_image.svg "https://github-readme-stats-khaki-six.vercel.app/api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=fxtips-broker,Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game,Energy-Management-Dashboard,Fix_My_Code_Challenge&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff,purebasic,scss,less"
         echo "Fetched GitHub languages image"
 
     - name: Fetch GitHub streak image
