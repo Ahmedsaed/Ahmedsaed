@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ahmed Saed's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 116, Total Commits  : 116, Total PRs: 112, Total Issues: 59, Contributed to: 23</desc>
+        <desc id="descId">Total Stars Earned: 117, Total Commits  : 117, Total PRs: 112, Total Issues: 59, Contributed to: 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.44707745954985;
+        stroke-dashoffset: 91.42852506359476;
       }
     }
   
@@ -159,7 +159,7 @@
         x="175" 
         y="12.5" 
         data-testid="stars"
-      >116</text>
+      >117</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
